@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-TechVidsApp-7aa1776e-4364-40a2-8507-0d4b132baa6f</UserSecretsId>
+    <Configurations>Debug;Release;Developent;Testing</Configurations>
   </PropertyGroup>
 
   <ItemGroup>
